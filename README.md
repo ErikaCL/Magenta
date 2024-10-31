@@ -1,21 +1,47 @@
 # Magenta
 
-# Example headings
+<div align="right">
+  
+<br><br>
+### An Integrated and Systematically Processed _Bioinformatics Tool_ for Microbial Gene Research in Mangrove Ecosystems Worldwide
+<br><br>
 
-## Sample Section
+</div>
 
-## This'll  be a _Helpful_ Section About the Greek Letter Θ!
-A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.
+---
+<div align="justify">
 
-## This heading is not unique in the file
+Mangroves are recognized as vital reserves of biological diversity and highly productive ecosystems. Numerous worldwide metagenomic studies have highlighted the mangrove microbial community as a crucial component of biogeochemical cycles, including photosynthesis, nitrogen fixation, sulfur reduction, and particularly carbon transformation, whose understanding is essential for addressing significant ecological challenges such as climate change. However, there is currently a lack of computational tools that enable the analysis of these processes and relationships on a global scale.
+
+MAGENTA (Global Mangrove Gene Catalogue) aims to serve as a critical bioinformatics tool designed to provide quantitative information on global shotgun metagenomics of mangrove microbiomes, whose purpose is to formulate new hypotheses regarding the abundance, distribution, and metabolic functions of microorganisms within the mangrove ecosystem, thereby enhancing our understanding of these complex global systems.
+
+</div>
+
+---
+<br><br>
+## Unique and Non-redundat Global Gene Catalogue
+
+<div align="justify">
+
+MAGENTA includes an integrated and consistently processed catalog of microbial genes from mangrove ecosystems, serving as a global repository of unique and non-redundant genes at the species-level identity threshold. It leverages publicly available data from specialized databases, including whole-genome shotgun (WGS) metagenomes from five key habitats of the mangrove microbial community—rhizosphere, seawater, sediment, soil, and wetland—alongside metagenomes collected by our research team from local mangrove environments in Mexico (e.g., Tuzpan). This comprehensive approach provides critical insights into local microbial communities, significantly enhancing our understanding of global microbial diversity and the ecological roles these microorganisms play within these vital ecosystems.
+
+</div>
+
+<br><br>
+
+## Geography
 
 TEXT 1
 
-## This heading is not unique in the file
+<br><br>
+
+## Species
 
 TEXT 2
 
-# Links to the example headings above
+<br><br>
+
+## Links to the example headings above
 
 Link to the sample section: [Link Text](#sample-section).
 
