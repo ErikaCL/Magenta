@@ -27,7 +27,9 @@ MAGENTA includes an integrated and consistently processed catalog of microbial g
 
 </div>
 
-![Preprocessing pipeline]("figs/31-10-pipe.png")
+<p align="center">
+  <img src="figs/31-10-pipe.png" alt="Preprocessing pipeline" width="500"/>
+</p>
 
 <br><br>
 
