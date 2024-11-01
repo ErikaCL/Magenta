@@ -16,9 +16,9 @@ Institute of Marine Sciences and Limnology (UNAM)
 **Team Members:**  
 Dr. Mirna Vázquez Rosas Landa  
 Dr. Rosela Yazmín Pérez Ceballos  
-Dr. Nelly Selem Mojica  
-Erika A. Castañeda López  
-Andrés Arredondo Cruz
+Dr. Nelly Selem Mojica    
+Pg, Ra. Andrés Arredondo Cruz
+Stud, Ra. Erika A. Castañeda López
 
 </div>
 <br><br>
