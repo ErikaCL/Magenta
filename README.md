@@ -35,7 +35,7 @@ MAGENTA includes an integrated and consistently processed catalog of microbial g
 
 ## Geography
 
-TEXT 1
+
 [Link to inetractive map](https://andrespan.github.io/Magenta_map/)
 
 <br><br>
