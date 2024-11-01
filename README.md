@@ -53,16 +53,8 @@ MAGENTA includes an integrated and consistently processed catalog of microbial g
 
 ## Geography
 
-We collected publicly available mangrove metagenome datasets from the European Nucleotide Archive (ENA Portal API) to develop MAGENTA. Incomplete or inconsistent datasets were filtered out, resulting in a total of 71 pairs of sequencing files from 7 studies across 12 locations in three countries: China, India, and the United States. 
+MAGENTA utilized publicly available metagenomic datasets of mangrove ecosystems from the European Nucleotide Archive. In its analysis, MAGENTA systematically excluded incomplete or inconsistent datasets, resulting in a total of 71 pairs of sequencing files derived from seven distinct studies across 12 geographic locations in three countries: China, India, and the United States.
 
-<div align="center">
-  
-[![Magenta Datasets Information](figs/magenta_datasets_info.png)](https://andrespan.github.io/Magenta_map/)
-
-</div>
-
-
-<br><br>
 ```geojson
 {
   "type": "FeatureCollection",
@@ -202,71 +194,15 @@ We collected publicly available mangrove metagenome datasets from the European N
   ]
 }
 ```
+<br><br>
+<br><br>
+For more information:
 
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "Rhizosphere metagenome - China"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [116.52, 23.27]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "Sediment metagenome - China: Pearl River Estuary"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [113.64, 22.43]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "Soil metagenome - Brazil: Bahia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-39.056139, -13.367918]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "Sediment metagenome - China: Yunxiao"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [117.24, 23.55]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "Wetland metagenome - USA: Texas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-97.0386, 27.8985]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "description": "Soil metagenome - India: Bhitarkanika mangrove forest, Odisha"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [86.8503, 20.6528]
-      }
-    }
-  ]
-}
-```
+Link to the Interactive Magenta Datasets Map:
+<div align="center">
+  
+[![Magenta Datasets Information](figs/magenta_datasets_info.png)](https://andrespan.github.io/Magenta_map/)
+
+</div>
+
+
