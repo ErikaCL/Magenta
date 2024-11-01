@@ -26,9 +26,9 @@ Andrés Arredondo Cruz
 ---
 <div align="justify">
 
-Mangroves are recognized as vital reserves of biological diversity and highly productive ecosystems. Numerous worldwide metagenomic studies have highlighted the mangrove microbial community as a crucial component of biogeochemical cycles, including photosynthesis, nitrogen fixation, sulfur reduction, and particularly carbon transformation, whose understanding is essential for addressing significant ecological challenges such as climate change. However, there is currently a lack of computational tools that enable the analysis of these processes and relationships on a global scale.
+Mangroves are recognized as **vital reserves of biological diversity** and **highly productive ecosystems**. Numerous worldwide metagenomic studies have highlighted the mangrove microbial community as a crucial component of biogeochemical cycles, including photosynthesis, nitrogen fixation, sulfur reduction, and particularly carbon transformation, whose understanding is essential for addressing significant ecological challenges such as climate change. **However, there is currently a lack of computational tools that enable the analysis of these processes and relationships on a global scale**.
 
-MAGENTA (Global Mangrove Gene Catalogue) aims to serve as a critical bioinformatics tool designed to provide quantitative information on global shotgun metagenomics of mangrove microbiomes, whose purpose is to formulate new hypotheses regarding the abundance, distribution, and metabolic functions of microorganisms within the mangrove ecosystem, thereby enhancing our understanding of these complex global systems.
+**MAGENTA** _(or Global Mangrove Gene Catalogue)_ aims to serve as a critical **bioinformatics tool** designed to provide quantitative information on global shotgun metagenomics of mangrove microbiomes, whose purpose is to formulate new hypotheses regarding the abundance, distribution, and metabolic functions of microorganisms within the mangrove ecosystem, thereby **enhancing our understanding of these complex global systems**.
 
 </div>
 
@@ -45,15 +45,17 @@ MAGENTA (Global Mangrove Gene Catalogue) aims to serve as a critical bioinformat
 
 <div align="justify">
 
-MAGENTA includes an integrated and consistently processed catalog of microbial genes from mangrove ecosystems, serving as a global repository of unique and non-redundant genes at the species-level identity threshold. It leverages publicly available data from specialized databases, including whole-genome shotgun (WGS) metagenomes from five key habitats of the mangrove microbial community—rhizosphere, seawater, sediment, soil, and wetland— alongside metagenomes collected by our research team from local mangrove environments in Mexico (e.g. Tuxpan, Cd. del Carmen, Cozumel). This comprehensive approach provides critical insights into local microbial communities, significantly enhancing our understanding of global microbial diversity and the ecological roles these microorganisms play within these vital ecosystems.
+**MAGENTA** includes an _integrated_ and _consistently processed_ catalog of microbial genes from mangrove ecosystems, serving as a global repository of unique and non-redundant genes, species-level identity threshold. It leverages publicly available data from specialized databases, including _whole-genome shotgun (WGS) metagenomes_ from five key habitats of the mangrove microbial community —rhizosphere, seawater, sediment, soil, and wetland— alongside _metagenomes collected by our research team from local mangrove environments in Mexico_ (e.g. Tuxpan, Cd. del Carmen, Cozumel). This comprehensive approach provides critical insights into local microbial communities, and significantly enhancing our understanding of **global microbial diversity** and the ecological roles these microorganisms play within these vital ecosystems.
 
 </div>
 
-
+<br><br>
 
 ## Geography
 
-MAGENTA utilized publicly available metagenomic datasets of mangrove ecosystems from the European Nucleotide Archive. In its analysis, MAGENTA systematically excluded incomplete or inconsistent datasets, resulting in a total of 71 pairs of sequencing files derived from seven distinct studies across 12 geographic locations in three countries: China, India, and the United States.
+**MAGENTA** utilized publicly available metagenomic datasets of mangrove ecosystems from the _European Nucleotide Archive_. In its analysis, **MAGENTA** systematically excluded _incomplete_ or _inconsistent_ datasets, resulting in a total of ***71*** pairs of sequencing files derived from ***7*** distinct studies, across ***12*** geographic locations, in ***3*** countries: China, India, and the United States.
+
+<br><br>
 
 ```geojson
 {
@@ -198,7 +200,7 @@ MAGENTA utilized publicly available metagenomic datasets of mangrove ecosystems 
 <br><br>
 For more information:
 
-Link to the Interactive Magenta Datasets Map:
+_Link to the Interactive Magenta Datasets Map:_
 <div align="center">
   
 [![Magenta Datasets Information](figs/magenta_datasets_info.png)](https://andrespan.github.io/Magenta_map/)
