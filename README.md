@@ -35,6 +35,8 @@ MAGENTA (Global Mangrove Gene Catalogue) aims to serve as a critical bioinformat
 ---
 
 <br><br>
+![Magenta Datasets Information](figs/31-10_pipeline.png)
+
 <p align="center">
   <img src="figs/31-10_pipeline.png" alt="Preprocessing pipeline" width="500"/>
 </p>
@@ -54,7 +56,9 @@ MAGENTA includes an integrated and consistently processed catalog of microbial g
 
 We collected publicly available mangrove metagenome datasets from the European Nucleotide Archive (ENA Portal API) to develop MAGENTA. Incomplete or inconsistent datasets were filtered out, resulting in a total of 71 pairs of sequencing files from 7 studies across 12 locations in three countries: China, India, and the United States. 
 
+Link to interactive map: [![Alt text](figs/link-image.png)](path/to/interactive.html)
 Link to interactive map: [Magenta Datasets Information](https://andrespan.github.io/Magenta_map/)
+
 
 <br><br>
 ```geojson
