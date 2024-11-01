@@ -196,20 +196,71 @@ Link to interactive map: [Magenta Datasets Information](https://andrespan.github
   ]
 }
 ```
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Rhizosphere metagenome - China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.52, 23.27]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Sediment metagenome - China: Pearl River Estuary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.64, 22.43]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Soil metagenome - Brazil: Bahia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-39.056139, -13.367918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Sediment metagenome - China: Yunxiao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.24, 23.55]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Wetland metagenome - USA: Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.0386, 27.8985]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Soil metagenome - India: Bhitarkanika mangrove forest, Odisha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [86.8503, 20.6528]
+      }
+    }
+  ]
+}
 ```
-
-## Species
-
-TEXT 2
-
-<br><br>
-
-## Links to the example headings above
-
-Link to the sample section: [Link Text](#sample-section).
-
-Link to the helpful section: [Link Text](#thisll--be-a-helpful-section-about-the-greek-letter-Θ).
-
-Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
-
-Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
