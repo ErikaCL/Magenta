@@ -35,12 +35,6 @@ Mangroves are recognized as **crucial reservoirs of biological diversity** and *
 ---
 
 <br><br>
-
-<p align="center">
-  <img src="figs/31-10_pipeline.png" alt="Preprocessing pipeline" width="500"/>
-</p>
-
-<br><br>
 ## Unique and Non-redundat Global Gene Catalogue
 
 <div align="justify">
@@ -48,6 +42,12 @@ Mangroves are recognized as **crucial reservoirs of biological diversity** and *
 **MAGENTA** encompasses an integrated and systematically processed catalog of microbial genes from mangrove ecosystems, functioning as a global repository of unique, non-redundant gene information. It utilizes publicly available data from specialized databases, including whole-genome shotgun (WGS) metagenomes from five key habitats of the mangrove microbial community —rhizosphere, seawater, sediment, soil, and wetland— alongside metagenomes collected by our research team from local mangrove environments in Mexico (e.g., Tuxpan, Cd. del Carmen, Cozumel). This comprehensive approach delivers critical insights into local microbial communities while significantly enhancing our understanding of global microbial diversity and the ecological roles these microorganisms play within these vital ecosystems.
 
 </div>
+
+<br><br>
+
+<p align="center">
+  <img src="figs/31-10_pipeline.png" alt="Preprocessing pipeline" width="500"/>
+</p>
 
 <br><br>
 
